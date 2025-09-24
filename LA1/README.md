@@ -4,8 +4,8 @@
 Write a C program that swaps two integer variables without using a third variable or arithmetic operators (`+`, `-`, `*`, `/`). Use bitwise operators to achieve the swap.
 
 **Solution:**\
-Solution 1 - [(p1_1.c)](p1_1.c)\
-Solution 2 - [(p1_2.c)](p1_2.c)
+The Black Magic Method - [(p1_1.c)](p1_1.c)\
+Recursive Function Method - [(p1_2.c)](p1_2.c)
 
 ## 2. Branching
 **Question:**\
