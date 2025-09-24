@@ -1,4 +1,5 @@
-/* 
+/*
+Question 3:
 Write a C program to print the first n numbers in the Fibonacci sequence
 using a for loop, but without using any additional variables except for
 the current and previous two numbers.

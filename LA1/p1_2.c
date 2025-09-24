@@ -1,4 +1,5 @@
 /* 
+Question 1:
 Write a C program that swaps two integer variables without using a third variable or arithmetic operators (+, -, *, /).
 Use bitwise operators to achieve the swap.
 

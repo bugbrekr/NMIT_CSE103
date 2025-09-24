@@ -1,4 +1,5 @@
 /* 
+Question 5:
 Write a C program that takes an array of integers and separates the numbers into two arrays:
 one containing all even numbers, and the other containing all odd numbers.
 Then, print the two arrays in reverse order using only pointer arithmetic (no indexing).

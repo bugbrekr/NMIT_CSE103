@@ -1,4 +1,5 @@
 /*
+Question 2:
 Write a function in C that takes an integer n and returns:
   * "Prime" if n is a prime number,
   * "Perfect Square" if n is a perfect square,

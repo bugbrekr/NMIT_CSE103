@@ -1,4 +1,5 @@
-/* 
+/*
+Question 4:
 Write a C function that takes an array of integers and its size, then
 returns the length of the longest contiguous subarray where the difference
 between consecutive elements is exactly 1 or -1.
